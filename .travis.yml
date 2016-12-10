@@ -31,7 +31,7 @@ script:
   - sleep 3
   - npm run e2e
 # deployment to heroku
-# deploy:
+# deploy: 
 #   provider: heroku
 #   api_key:
 #     secure: "YOUR ENCRYPTED API KEY"
